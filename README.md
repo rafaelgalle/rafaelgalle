@@ -1,19 +1,10 @@
-
-### Hi there 👋
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelgalle)](https://github.com/rafaelgalle)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-galle/)](https://www.linkedin.com/in/rafael-galle/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgalle1@gmail.com)](mailto:rafaelgalle1@gmail.com)
 
-My name is Rafael Galle, I love technology and ... 💙
-
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rafael-galle/">Linkedin</a>
+Apaixonado por tecnologia e inovação, adoro estudar e aprender novas coisas todos os dias...💙
 
 ... In Progress 👨‍💻
-
-
-
 
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
