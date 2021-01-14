@@ -10,11 +10,11 @@ Apaixonado por tecnologia e inovação, adoro estudar e aprender novas coisas to
   <tr>
     <td>
       
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelgalle&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)      
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelgalle&count_private=true&show_icons=true&hide=stars&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)      
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgalle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgalle&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)        
     </td>
     </tr> 
 
