@@ -3,7 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgalle1@gmail.com)](mailto:rafaelgalle1@gmail.com)
 
 Apaixonado por tecnologia e inovação, adoro estudar e aprender novas coisas todos os dias.
+
 Tenho como hobby solucionar problemas, desenvolver soluções utilizando tecnologia.
+
 
 Tive meus primeiros passos com a informática no curso técnico que realizei junto ao ensino médio, la aprendi um pouco sobre design, hardware e programação, esse conhecimento foi reforçado e ampliado quando cursei Sistemas de Informação e Pós graduação em Desenvolvimento Delphi.
 
@@ -11,11 +13,10 @@ Desde 2013, desenvolvo soluções e softwares, mobile, desktop, web, server, cli
 
 Objetivo: Tornar o mundo um lugar melhor.
 
-Mais sobre mim: 
-https://medium.com/@rafaelgalle1
-https://br.linkedin.com/in/rafael-galle
-https://github.com/rafaelgalle
-
+**Mais sobre mim:**
+- https://medium.com/@rafaelgalle1 
+- https://br.linkedin.com/in/rafael-galle 
+- https://github.com/rafaelgalle 
 
 ... In Progress 👨‍💻
 
