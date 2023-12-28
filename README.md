@@ -2,20 +2,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-galle/)](https://www.linkedin.com/in/rafael-galle/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgalle1@gmail.com)](mailto:rafaelgalle1@gmail.com)
 
-Apaixonado por tecnologia e inovação, adoro estudar e aprender novas coisas todos os dias.
+🌟 About Me:
+Software engineer with 11 years of experience in development, project orchestration, and technical leadership. My career is marked by constant technical evolution and team management, always with a focus on delivering innovative solutions that drive digital transformation.
 
-Tenho como hobby solucionar problemas, desenvolver soluções utilizando tecnologia.
+📚 Education and Self-Development:
+My journey in technology began with a technical course in programming, followed by a degree in Information Systems and a specialization in Delphi Development. Not stopping there, I have completed numerous courses encompassing diverse technologies and development practices - from backend and frontend to system architecture, databases, cloud, data engineering, as well as enhancing my skills in agile methodologies, leadership, and software engineering standards.
 
+📈 Diverse Experience:
+I have a solid professional trajectory working across multiple platforms (mobile, desktop, server, web), building complex systems - from robust ERPs, dental clinic management to innovative solutions for startups in the logistics sector. My background ranges from omnichannel-focused systems to self-service portals, aligned with the business needs of various scales and data dynamics.
 
-Tive meus primeiros passos com a informática no curso técnico que realizei junto ao ensino médio, la aprendi um pouco sobre design, hardware e programação, esse conhecimento foi reforçado e ampliado quando cursei Sistemas de Informação e Pós graduação em Desenvolvimento Delphi.
+🔍 Leadership and Innovation:
+As a tech lead, I go beyond just coding: I structure efficient processes, build high-performance teams (squads), and promote the integration of technological innovations with advanced practices such as Design Patterns, SOLID, and DDD. My commitment lies in the excellence and sustainability of the projects I lead, always looking towards continuous evolution and the best practices in the industry.
 
-Desde 2013, desenvolvo soluções e softwares, mobile, desktop, web, server, client, simples e complexos.
-
-Objetivo: Tornar o mundo um lugar melhor.
+🌐 Contributions and Collaboration:
+I believe in the power of knowledge sharing and open-source contributions, which is why you will find some of my insights and experiences shared on GitHub and Medium, reflecting a career dedicated to collective sharing and creation.
 
 **Mais sobre mim:**
-- https://medium.com/@rafaelgalle1 
 - https://br.linkedin.com/in/rafael-galle 
+- https://medium.com/@rafaelgalle1 
 - https://github.com/rafaelgalle 
 
 ... In Progress 👨‍💻
